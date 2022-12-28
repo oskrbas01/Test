@@ -1,2 +1,2 @@
 This is text of test version.
-now add new line 
+now add new line and clear text
